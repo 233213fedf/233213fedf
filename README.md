@@ -1,4 +1,11 @@
-### Hi there 👋
+![](https://s2.loli.net/2022/02/15/m6VUPzEZyorS5lJ.png)
+
+🤔 
+
+Just for fun.
+
+* [My Bilibili account page](https://space.bilibili.com/12633437?spm_id_from=333.1007.0.0)
+* [My website](https://www.233213fedf.tk/)
 
 <!--
 **233213fedf/233213fedf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
