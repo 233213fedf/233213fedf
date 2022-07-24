@@ -1,7 +1,7 @@
 ![](https://s2.loli.net/2022/02/15/m6VUPzEZyorS5lJ.png)
 
 # Who?
-I'm **233213fedf**, a senior three student from China.
+I'm **233213fedf** (Syltus-Chau), a ~~senior three student~~...Now a college student(?) from China.
 Just for fun.
 
 * [My Bilibili account page](https://space.bilibili.com/12633437?spm_id_from=333.1007.0.0)
