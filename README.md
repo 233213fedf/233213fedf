@@ -5,7 +5,7 @@ I'm **233213fedf** (Syltus-Chau), a ~~senior three student~~...Now a college stu
 Just for fun.
 
 * [My Bilibili account page](https://space.bilibili.com/12633437?spm_id_from=333.1007.0.0)
-* [My website](https://www.233213fedf.tk/)
+* [My website](https://blog.syltus.top/)
 
 <!--
 **233213fedf/233213fedf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
