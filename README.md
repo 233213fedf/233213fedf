@@ -3,7 +3,7 @@
 a college student from China.
 Just for fun.
 
-* [My Bilibili account page](https://space.bilibili.com/12633437?spm_id_from=333.1007.0.0)
+* [My Bilibili account page](https://space.bilibili.com/12633437)
 * [My website](https://blog.syltus.top/)
 
 <!--
