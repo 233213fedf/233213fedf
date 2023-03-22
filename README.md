@@ -3,8 +3,8 @@
 a college student from China.
 Just for fun.
 
-* [My Bilibili account page](https://space.bilibili.com/12633437)
-* [My website](https://blog.syltus.top/)
+#Links
+- [My blog](https://blog.syltus.top/)
 
 <!--
 **233213fedf/233213fedf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
