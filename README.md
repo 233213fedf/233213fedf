@@ -1,7 +1,7 @@
 # Hi there! 😺
 
 ## Who am I?
-- a college student whose major in completely not related to computer and programming
+- a college student whose current major is completely not related to computer and programming
 - A little bit familiar with C++ and Python
 - Nearly fluent in English
 - Just have started his own [indie game development](https://bt.syltus.top/works.htm) with [Godot Engine](https://godotengine.org/)
