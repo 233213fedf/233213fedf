@@ -17,6 +17,9 @@
 - [My blog](https://blog.syltus.top/)
 - [My doujin circle(?) page](https://bt.syltus.top)
 
+[![](https://github-readme-stats.vercel.app/api?username=233213fedf)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=233213fedf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **233213fedf/233213fedf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
